@@ -1,0 +1,3 @@
+rootProject.name='TestLocalAarSupport'
+include ':app'
+include ':localone'
